@@ -1,0 +1,2784 @@
+[
+	{
+		"ServiceStationID": 18287,
+		"Name": "Metro Petroleum Keiraville",
+		"Lat": -34.414746,
+		"Long": 150.875125,
+		"Price": 176.5,
+		"Address": "270 GIPPS RD, KEIRAVILLE NSW 2500",
+		"Brand": "Metro Fuel",
+		"Distance": 7.54,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 176.5,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 178.5,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": true,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 1973,
+		"Name": "Ampol Gwynneville",
+		"Lat": -34.416233,
+		"Long": 150.884928,
+		"Price": 178.5,
+		"Address": "162 Gipps Rd, Gwynneville NSW 2500",
+		"Brand": "Ampol",
+		"Distance": 7.50,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "U91",
+				"Price": 178.5,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 202.5,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 195.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": true,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "U91",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 709,
+		"Name": "Ampol Foodary Wollongong North",
+		"Lat": -34.415048,
+		"Long": 150.893164,
+		"Price": 184.9,
+		"Address": "9 Flinders St, Wollongong North NSW 2500",
+		"Brand": "Ampol",
+		"Distance": 7.28,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 184.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 186.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 203.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 211.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "LPG",
+				"Price": 127.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": true,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 383,
+		"Name": "BP Fairy Meadow",
+		"Lat": -34.403300,
+		"Long": 150.891583,
+		"Price": 194.9,
+		"Address": "Northgate Ctr  224 Princess Hway, Fairy Meadow NSW 2519",
+		"Brand": "BP",
+		"Distance": 5.99,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "U91",
+				"Price": 194.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 211.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 219.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": true,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "U91",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 17779,
+		"Name": "Bp woonona",
+		"Lat": -34.341625,
+		"Long": 150.905612,
+		"Price": 197.7,
+		"Address": "426 Princes Highway, WOONONA NSW 2517",
+		"Brand": "BP",
+		"Distance": 1.09,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 222.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 203.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:30 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:30 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": true,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:30 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:30 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:30 AM",
+				"EndTime": "12:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:30 AM",
+				"EndTime": "12:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:30 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 18620,
+		"Name": "Enhance Russell Vale",
+		"Lat": -34.361280,
+		"Long": 150.899485,
+		"Price": 197.7,
+		"Address": "115 BELLAMBI LANE, BELLAMBI NSW 2518",
+		"Brand": "Enhance",
+		"Distance": 1.30,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 219.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 189.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": true,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 508,
+		"Name": "EG Ampol Bulli",
+		"Lat": -34.335613,
+		"Long": 150.913262,
+		"Price": 197.7,
+		"Address": "261-265 Princes Highway, Bulli NSW 2516",
+		"Brand": "EG Ampol",
+		"Distance": 2.05,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 214.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 222.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 203.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": true,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 174,
+		"Name": "7-Eleven Corrimal",
+		"Lat": -34.369863,
+		"Long": 150.897816,
+		"Price": 197.7,
+		"Address": "138-146 Princes Highway, Corrimal NSW 2518",
+		"Brand": "7-Eleven",
+		"Distance": 2.25,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 214.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 222.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 209.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": true,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 641,
+		"Name": "EG Ampol Corrimal",
+		"Lat": -34.375297,
+		"Long": 150.896293,
+		"Price": 197.7,
+		"Address": "275-277 Princes Highway, Corrimal NSW 2518",
+		"Brand": "EG Ampol",
+		"Distance": 2.86,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 214.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 222.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 209.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 18471,
+		"Name": "Enhance East Corrimal",
+		"Lat": -34.374397,
+		"Long": 150.908820,
+		"Price": 197.7,
+		"Address": "2-4 RAILWAY ST, EAST CORRIMAL NSW 2518",
+		"Brand": "Enhance",
+		"Distance": 2.90,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "E85",
+				"Price": 217.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 219.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 189.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": true,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": true
+	},
+	{
+		"ServiceStationID": 19654,
+		"Name": "Metro Petroleum Corrimal",
+		"Lat": -34.376283,
+		"Long": 150.908400,
+		"Price": 197.7,
+		"Address": "61-63 MURRAY RD, EAST CORRIMAL NSW 2518",
+		"Brand": "Metro Fuel",
+		"Distance": 3.09,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 219.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 189.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "LPG",
+				"Price": 99.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": true,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 1114,
+		"Name": "Medco Towradgi",
+		"Lat": -34.384249,
+		"Long": 150.903529,
+		"Price": 197.7,
+		"Address": "119 Towradgi Road, Towradgi NSW 2518",
+		"Brand": "Independent",
+		"Distance": 3.87,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 219.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "DL",
+				"Price": 189.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": true,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 16917,
+		"Name": "7- Eleven Towradgi",
+		"Lat": -34.384116,
+		"Long": 150.906484,
+		"Price": 197.7,
+		"Address": "162-166 Pioneer Rd, TOWRADGI NSW 2518",
+		"Brand": "7-Eleven",
+		"Distance": 3.89,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 214.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 222.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": true,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 18111,
+		"Name": "Metro Petroleum Fairy Meadow",
+		"Lat": -34.387526,
+		"Long": 150.894684,
+		"Price": 197.7,
+		"Address": "16 Princes Highway, FAIRY MEADOW NSW 2519",
+		"Brand": "Metro Fuel",
+		"Distance": 4.22,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 219.7,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "DL",
+				"Price": 189.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 189.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": true,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "12:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "12:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "12:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "11:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 11:00 PM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": true
+	},
+	{
+		"ServiceStationID": 5,
+		"Name": "Shell Reddy Express Bulli",
+		"Lat": -34.336559,
+		"Long": 150.912153,
+		"Price": 197.9,
+		"Address": "279-287 Princes Highway, Bulli NSW 2516",
+		"Brand": "Reddy Express",
+		"Distance": 1.91,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 214.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 222.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "DL",
+				"Price": 203.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": true,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 11,
+		"Name": "Shell Reddy Express Corrimal",
+		"Lat": -34.374407,
+		"Long": 150.896376,
+		"Price": 197.9,
+		"Address": "269-275 Princes Highway, Corrimal NSW 2518",
+		"Brand": "Reddy Express",
+		"Distance": 2.76,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 214.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 222.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "DL",
+				"Price": 209.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "08:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "08:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "08:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "08:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "08:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "08:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "07:00 AM",
+				"EndTime": "08:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 05:00 AM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 18575,
+		"Name": "Ampol Fairy Meadow",
+		"Lat": -34.389250,
+		"Long": 150.894106,
+		"Price": 197.9,
+		"Address": "30-34 PRINCES HWY, FAIRY MEADOW NSW 2519",
+		"Brand": "Ampol",
+		"Distance": 4.42,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 213.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 221.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": ""
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": ""
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": ""
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": ""
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "04:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": ""
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "08:00 PM",
+				"IsOpenNow": false,
+				"Status": ""
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": false,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "07:00 PM",
+				"IsOpenNow": false,
+				"Status": ""
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": true
+	},
+	{
+		"ServiceStationID": 1677,
+		"Name": "Metro Balgownie",
+		"Lat": -34.389256,
+		"Long": 150.880854,
+		"Price": 197.9,
+		"Address": "99 Balgownie Road, Balgownie NSW 2519",
+		"Brand": "Metro Fuel",
+		"Distance": 4.69,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 209.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 219.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 198.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "12:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 12:00 AM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "12:00 AM",
+				"IsOpenNow": true,
+				"Status": "Closes 12:00 AM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "12:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 12:00 AM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "12:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 12:00 AM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "01:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 12:00 AM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "01:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 12:00 AM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:00 AM",
+				"EndTime": "12:00 AM",
+				"IsOpenNow": false,
+				"Status": "Closes 12:00 AM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 670,
+		"Name": "EG Ampol Fairy Meadow",
+		"Lat": -34.393972,
+		"Long": 150.892534,
+		"Price": 197.9,
+		"Address": "47 Princes Highway, Fairy Meadow NSW 2519",
+		"Brand": "EG Ampol",
+		"Distance": 4.95,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 197.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 213.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 221.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": true,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "09:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 1975,
+		"Name": "Ampol Thirroul",
+		"Lat": -34.314377,
+		"Long": 150.924727,
+		"Price": 198.9,
+		"Address": "242 Lawrence Hargrave Drive, Thirroul NSW 2515",
+		"Brand": "Ampol",
+		"Distance": 4.58,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "U91",
+				"Price": 198.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 212.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "DL",
+				"Price": 203.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "7:30 AM",
+				"EndTime": "6:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 7:30 AM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "7:30 AM",
+				"EndTime": "6:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 7:30 AM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "7:30 AM",
+				"EndTime": "6:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 7:30 AM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "7:30 AM",
+				"EndTime": "6:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 7:30 AM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "7:30 AM",
+				"EndTime": "6:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 7:30 AM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "7:30 AM",
+				"EndTime": "1:00 PM",
+				"IsOpenNow": false,
+				"Status": "Opens 7:30 AM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": null,
+				"IsClose": true,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "Opens 7:30 AM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "U91",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 1958,
+		"Name": "BP Austinmer",
+		"Lat": -34.300452,
+		"Long": 150.938837,
+		"Price": 199.9,
+		"Address": "42 Lawrence Hargrave, Austinmer NSW 2515",
+		"Brand": "BP",
+		"Distance": 6.59,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "U91",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P95",
+				"Price": 214.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 222.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 199.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:30 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:30 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": true,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:30 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:30 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "05:30 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": null,
+				"IsClose": false,
+				"StartTime": "06:00 AM",
+				"EndTime": "10:00 PM",
+				"IsOpenNow": false,
+				"Status": "Closes 10:00 PM"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "U91",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	},
+	{
+		"ServiceStationID": 18705,
+		"Name": "Metro Petroleum Bellambi",
+		"Lat": -34.368339,
+		"Long": 150.910013,
+		"Price": 207.9,
+		"Address": "209-211 ROTHERY ST, BELLAMBI NSW 2518",
+		"Brand": "Metro Fuel",
+		"Distance": 2.32,
+		"IsAlternate": false,
+		"Prices": [
+			{
+				"FuelType": "E10",
+				"Price": 207.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "U91",
+				"Price": 209.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "P98",
+				"Price": 229.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "DL",
+				"Price": 189.9,
+				"Unit": "litre",
+				"Description": null
+			},
+			{
+				"FuelType": "PDL",
+				"Price": 189.9,
+				"Unit": "litre",
+				"Description": null
+			}
+		],
+		"Day": "TUESDAY",
+		"tradinghours": [
+			{
+				"Day": "MONDAY",
+				"DayOrder": 1,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "TUESDAY",
+				"DayOrder": 2,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": true,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "WEDNESDAY",
+				"DayOrder": 3,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "THURSDAY",
+				"DayOrder": 4,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "FRIDAY",
+				"DayOrder": 5,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SATURDAY",
+				"DayOrder": 6,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			},
+			{
+				"Day": "SUNDAY",
+				"DayOrder": 7,
+				"IsOpen24Hours": true,
+				"IsClose": false,
+				"StartTime": "",
+				"EndTime": "",
+				"IsOpenNow": false,
+				"Status": "24 hours"
+			}
+		],
+		"revisedwindow": false,
+		"window": {
+			"bottomleft": {
+				"latitude": -3.442062029609424e+001,
+				"longitude": 1.507938158986816e+002
+			},
+			"topright": {
+				"latitude": -3.427861156747204e+001,
+				"longitude": 1.510035861013184e+002
+			}
+		},
+		"FuelType": "E10",
+		"EvChargingDetails": null,
+		"IsAdBlueAvailable": false
+	}
+]
