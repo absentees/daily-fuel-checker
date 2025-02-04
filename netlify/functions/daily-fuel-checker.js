@@ -1,18 +1,12 @@
-import { schedule } from '@netlify/functions'
+const { schedule } = require('@netlify/functions')
 
-
-const handler = async function (event, context) {
-	// Your logic to check fuel prices and perform necessary actions
-	console.log("Daily fuel checker function ran successfully.");
+// To learn about scheduled functions and supported cron extensions,
+// see: https://ntl.fyi/sched-func
+module.exports.handler = schedule('* * * * *', async (event) => {
+	const eventBody = JSON.parse(event.body)
+	console.log(`Next function run at ${eventBody.next_run}.`)
 
 	return {
 		statusCode: 200,
-		body: JSON.stringify({ message: "Daily fuel checker function ran successfully." })
-	};
-};
-
-export const config = {
-	schedule: "@daily"
-}
-
-export default schedule(config.schedule, handler)
+	}
+})
