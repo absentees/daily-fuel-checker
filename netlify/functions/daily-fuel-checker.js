@@ -15,4 +15,4 @@ export const config = {
 	schedule: "@daily"
 }
 
-export { handler }
+export default schedule(config.schedule, handler)
