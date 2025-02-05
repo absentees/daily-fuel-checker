@@ -2,5 +2,5 @@
 directory = "netlify/functions"
 
 [build]
-command = "echo 'No build command required for functions-only deployment'"
+command = "yarn run build"
 publish = "public"

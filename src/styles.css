@@ -1,0 +1,33 @@
+body {
+	max-width: 80ch;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 1ch;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+
+	label {
+		margin-top: 1ch;
+	}
+
+	input[type="submit"] {
+		color: red;
+		margin-top: 1ch;
+	}
+
+	.error {
+		color: red;
+	}
+
+	.success {
+		color: green;
+	}
+}

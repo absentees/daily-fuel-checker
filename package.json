@@ -1,6 +1,13 @@
 {
+  "type": "module",
+  "scripts": {
+    "dev": "vite ./src",
+    "build": "vite build ./src --outDir ../dist",
+    "serve": "vite preview"
+  },
   "dependencies": {
     "@netlify/functions": "^3.0.0",
-    "node-fetch": "2"
+    "node-fetch": "2",
+    "vite": "^6.0.11"
   }
 }
