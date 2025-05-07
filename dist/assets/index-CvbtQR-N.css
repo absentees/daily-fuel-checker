@@ -1,1 +1,0 @@
-body{max-width:80ch;width:100%;margin:0 auto;padding:0 1ch;font-family:Arial,sans-serif}h1{font-size:2em}form{display:flex;flex-direction:column}form label,form input[type=submit]{margin-top:1ch}form .error{color:red}form .success{color:green}
