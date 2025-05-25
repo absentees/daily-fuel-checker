@@ -16,8 +16,7 @@ async function getSubscriptions() {
 			.select(`
                 user_id,
                 postcode,
-                suburb,
-				auth.users ( email )
+                suburb
             `)
 
 		if (error) {
@@ -29,17 +28,26 @@ async function getSubscriptions() {
 			return [];
 		}
 
-		console.log(`Found ${data.length} subscriptions.`);
+		const { data: dataUsers, errorUsers } = await supabase.auth.admin.listUsers();
 
-		// Transform the data to flatten the users object
-		const transformedData = data.map(subscription => ({
-			user_id: subscription.user_id,
-			postcode: subscription.postcode,
-			suburb: subscription.suburb,
-			email: subscription.users?.email
-		}));
+		if (errorUsers) {
+			console.error('Error fetching users:', errorUsers);
+			return [];
+		}
 
-		return transformedData;
+		// Join the data with the users email from dataUsers
+		const enrichedData = data.map(subscription => {
+			const user = dataUsers.users.find(user => user.id === subscription.user_id);
+			return {
+				...subscription,
+				email: user ? user.email : null
+			};
+		});
+
+		console.log(`Fetched ${enrichedData.length} subscriptions with user emails.`);
+
+		return enrichedData;
+
 	} catch (error) {
 		console.error('Error fetching subscriptions:', error);
 		return [];
@@ -74,7 +82,7 @@ export const handler = schedule('0 0 * * *', async (event) => {
 				console.error(`Failed to fetch bounding box for ${subscription.suburb}, ${subscription.postcode}.`);
 				continue;
 			}
-			console.log(`Fetched bounding box for ${subscription.suburb}, ${subscription.postcode}:`, boundingBox);
+
 
 			const response = await fetch(`https://www.fuelcheck.nsw.gov.au/fuel/api/v1/fuel/prices/bylocation?bottomLeftLatitude=${boundingBox.bottomLeftLatitude}&bottomLeftLongitude=${boundingBox.bottomLeftLongitude}&topRightLatitude=${boundingBox.topRightLatitude}&topRightLongitude=${boundingBox.topRightLongitude}&fuelType=E10-U91&radius=4&suburb=${subscription.suburb}&postcode=${subscription.postcode}`, {
 				headers: {
@@ -101,10 +109,6 @@ export const handler = schedule('0 0 * * *', async (event) => {
 					cheapestStation = station;
 				}
 			});
-
-			console.log('Cheapest fuel price:', cheapestPrice);
-			console.log('Station name:', cheapestStation.Name);
-			console.log('Station address:', cheapestStation.Address);
 
 			await sendEmailNotification(subscription.email, {
 				subscription: subscription.suburb,
