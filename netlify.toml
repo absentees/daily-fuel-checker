@@ -3,4 +3,4 @@ directory = "netlify/functions"
 
 [build]
 command = "yarn run build-only"
-publish = "public"
+publish = "dist"
