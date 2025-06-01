@@ -54,10 +54,8 @@ async function getSubscriptions() {
 	}
 }
 
-
-// To learn about scheduled functions and supported cron extensions,
-// see: https://ntl.fyi/sched-func
-export const handler = schedule('0 0 * * *', async (event) => {
+// This function is scheduled to run every 10 minutes to check fuel prices for subscribed users.
+export const handler = schedule('*/10 * * * *', async (event) => {
 	const eventBody = JSON.parse(event.body);
 	console.log(`Next function run at ${eventBody.next_run}.`);
 
