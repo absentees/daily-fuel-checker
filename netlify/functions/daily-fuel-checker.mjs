@@ -54,8 +54,7 @@ async function getSubscriptions() {
 	}
 }
 
-// This function is scheduled to run every 10 minutes to check fuel prices for subscribed users.
-export const handler = schedule('*/10 * * * *', async (event) => {
+export const handler = schedule('0 7 * * *', async (event) => {
 	const eventBody = JSON.parse(event.body);
 	console.log(`Next function run at ${eventBody.next_run}.`);
 
